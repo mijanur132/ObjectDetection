@@ -1,7 +1,5 @@
 # Object Detection and Distance Measurement
 
-[![N|Solid](http://muizzer07.pythonanywhere.com/media/files/YOLO-m-ram-copy_RQByeS4.jpg)](https://pjreddie.com/darknet/yolo/?style=centerme)
-
 
 ## Introduction
  This repo contains object_detection.py, which can perform the following task -
